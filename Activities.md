@@ -1,5 +1,7 @@
 # Resumen del proyecto
 
+*Te recomendamos aprovechar los espacios de office hours semanales para Job Application*
+
 <table style="width: 100%">
   <tr>
     <th style="width: 20%">Etapa</th>
