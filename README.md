@@ -101,7 +101,7 @@ contarás y los entregables de cada momento.
 
 En el siguiente link encontrarás todo el material de apoyo de Job Application:
 
-### [Recursos](./Recursos.md)
+### [Recursos](./Resources.md)
 
 ## 5. Consideraciones generales
 
