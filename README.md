@@ -99,6 +99,10 @@ contarás y los entregables de cada momento.
 
 ### [Actividades](./Activities.md)
 
+En el siguiente link encontrarás todo el material de apoyo de Job Application:
+
+### [Recursos](./Recursos.md)
+
 ## 5. Consideraciones generales
 
 - Este es un proyecto individual que irás avanzando en paralelo a los otros
