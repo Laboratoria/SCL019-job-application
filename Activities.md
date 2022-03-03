@@ -91,16 +91,14 @@
   </tr>
   <tr>
     <td rowspan="5"><b>Mentoría RRHH y mock interview</b></td>
-    <td>18/03</td>
+    <td>17/03</td>
     <td>
-      <b>Kickoff / Meet and Greet:</b><br />
-      Tendrás vínculo con dos persona de la industria
-      que te acompañarán en tu preparación para las etapas de Recursos Humanos /
-      fit cultural en procesos de selección.
+      <b>Q&A mentorías RH con el equipo:</b><br />
+      Te compartiremos cómo serán las sesiones de revisión de herramientas y la simulación de la entrevista de RH y podrás prepararte para esta experiencia. 
     </td>
     <td>
       <ul>
-        <li>Guía mentorías RRHH</li>
+        <li>Q&A Readme del proyecto (slido)</li>
       <ul>
     </td>
     <td>NA</td>
@@ -108,13 +106,21 @@
   <tr>
     <td>Semana 21/03</td>
     <td>
-      <b>Sesión revisión y feedback CV<b><br />
-      En la primera sesión revisarán tu CV y
-      recibirás feedback y recomendaciones. También podrás resolver dudas y
-      pedir consejos.
+      <b>Meet and greet + sesión revisión y feedback CV<b><br />
+      Este espacio será programado por el equipo de Laboratoria y se dividirá en 2 momentos: Dinámica para que conozcas a tu mentora/or. Revisión y feedback de CV. 
     </td>
-    <td></td>
-    <td>NA</td>
+    <td>
+      <ul>
+        <li>Guía mentorías RRHH</li>
+      </ul>
+    </td>
+    <td>
+      <ul>  
+        <li>
+          Segunda versión del CV con recomendaciones incorporadas. 
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>Semana 28/03</td>
@@ -124,8 +130,16 @@
       perfil de LinkedIn y recibirás feedback y recomendaciones. También podrás
       resolver dudas y pedir consejos.
     </td>
-    <td></td>
-    <td>NA</td>
+    <td>
+      <ul>
+        <li>Guía mentorías RRHH</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Actualización del perfil de LinkedIn con recomendaciones incorporadas.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>Semana 04/04 y Semana 11/04</td>
