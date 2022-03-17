@@ -91,7 +91,7 @@
   </tr>
   <tr>
     <td rowspan="5"><b>Mentoría RRHH y mock interview</b></td>
-    <td>17/03</td>
+    <td>22/03</td>
     <td>
       <b>Q&A mentorías RH con el equipo:</b><br />
       Te compartiremos cómo serán las sesiones de revisión de herramientas y la simulación de la entrevista de RH y podrás prepararte para esta experiencia. 
