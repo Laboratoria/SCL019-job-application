@@ -181,7 +181,7 @@
   </tr>
   <tr>
     <td rowspan="2"><b>Preparación tech</b></td>
-    <td>1° Sesión 28/03 <br> 2° Sesión 11/04</td>
+    <td>1° Sesión por confirmar <br> 2° Sesión por confirmar</td>
     <td>
       <b>Mock mock tech interview grupal - Sesiones 1 y 2</b><br />
       Tendremos dos espacios de
