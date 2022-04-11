@@ -16,3 +16,6 @@ Repositorio centralizado de todos los recursos de Job Application
 ### Preparación entrevista RRHH
 - [Píldora: Tips y buenas prácticas entrevista RRHH](https://www.youtube.com/watch?v=HjOUpKgbdIM)
 - [Píldora: Negociación salario y condiciones laborales](https://www.loom.com/share/082a12d5a30a4f9bb1afd951ccba0b39)
+
+## Preparación Perfil de Github
+- [Píldora: Perfil de Github para la búsqueda de empleo](https://www.youtube.com/watch?v=vQ_EBqgUR0c)
